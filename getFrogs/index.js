@@ -8,7 +8,7 @@ module.exports = async function (context, req) {
             "White-lipped Tree Frog", 
             "Cane Toad", 
             "Red-eyed Tree Frog", 
-            "Purple Frog",
+            "Purple borrowing Frog",
             "Tiger-striped belly Leaf Frog"
         ]
     };
